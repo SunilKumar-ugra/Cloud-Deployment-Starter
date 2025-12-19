@@ -1,4 +1,5 @@
 # Deployment Starter
+This repository contains reference implementations of CI/CD, GitOps, monitoring, and logging pipelines for ML/LLM applications, built to demonstrate end-to-end deployment workflows across cloud and Kubernetes environments.
 ---
 1. [Filebeat,ELK(ElasticSearch,Logstash,Kibana) , Kubernetes](Filebeat,ELK(ElasticSearch,Logstash,Kibana)%20,%20Kubernetes.md)
 
